@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://reborn8888.github.io/2020/12/28/Azure-6-STT/</loc>
+    
+    <lastmod>2020-12-28T09:48:07.929Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://reborn8888.github.io/2020/09/25/Azure-5-Personalizer/</loc>
     
-    <lastmod>2020-09-27T03:48:23.173Z</lastmod>
+    <lastmod>2020-12-28T09:40:36.894Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reborn8888.github.io/2020/04/09/python%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2020-12-03T10:44:30.828Z</lastmod>
     
   </url>
   
@@ -145,13 +159,6 @@
     <loc>https://reborn8888.github.io/2020/02/14/sklearn%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2020-08-31T08:18:58.340Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://reborn8888.github.io/2020/04/09/python%E7%AC%94%E8%AE%B0/</loc>
-    
-    <lastmod>2020-08-31T08:18:58.337Z</lastmod>
     
   </url>
   
