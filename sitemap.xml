@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://reborn8888.github.io/2020/12/29/Azure-7-TTS/</loc>
+    <loc>https://reborn8888.github.io/2021/02/17/%E6%8A%95%E8%B5%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     
-    <lastmod>2020-12-30T04:06:00.272Z</lastmod>
+    <lastmod>2021-02-23T03:09:13.461Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reborn8888.github.io/2020/02/14/plt&cv2%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2021-01-26T05:44:35.797Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reborn8888.github.io/2020/12/30/Azure-8-Speech-Translation/</loc>
+    
+    <lastmod>2021-01-20T02:44:32.845Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://reborn8888.github.io/2020/12/28/Azure-6-STT/</loc>
     
-    <lastmod>2020-12-29T06:01:42.367Z</lastmod>
+    <lastmod>2020-12-30T07:54:45.740Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reborn8888.github.io/2020/12/29/Azure-7-TTS/</loc>
+    
+    <lastmod>2020-12-30T07:54:30.388Z</lastmod>
     
   </url>
   
@@ -82,13 +103,6 @@
     <loc>https://reborn8888.github.io/2020/02/14/pytorch%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2020-08-31T08:43:21.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://reborn8888.github.io/2020/02/14/plt&cv2%E7%AC%94%E8%AE%B0/</loc>
-    
-    <lastmod>2020-08-31T08:40:05.143Z</lastmod>
     
   </url>
   
